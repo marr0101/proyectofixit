@@ -39,5 +39,5 @@ Herramientas: Trello, GitHub, Microsoft Teams, Google Drive, WhatsApp y Microsof
 ## Enlaces del proyecto
 
 - Tablero de Trello: [pendiente]
-- Espacio de Teams: [pendiente]
-- Carpeta de Google Drive: [pendiente]
+- Espacio de Teams: [fixit reuniones](https://teams.microsoft.com/l/channel/19%3A287f735a7b864df98c929c3b54f1649%40thread.tacv2/fixit%20reuniones?groupId=36699ccf-1c9b-4254-a1ad-0addb11ec938&tenantId=a0c31715-9126-4053-9f0c-da6f88a50e31)
+- Carpeta de Google Drive: [Abrir carpeta del proyecto](https://drive.google.com/drive/folders/1XwtXWFbAMf4bUnAVk1B92h34V665ELhC?usp=sharing)
